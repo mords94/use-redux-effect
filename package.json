@@ -30,7 +30,7 @@
     "postinstall": "husky install"
   },
   "peerDependencies": {
-    "react": "^16.0.0"
+    "react": ">=16.0.0"
   },
   "devDependencies": {
     "@commitlint/cli": "^12.1.4",
